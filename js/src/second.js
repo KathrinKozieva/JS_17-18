@@ -1,0 +1,1 @@
+alert ('222- This is alert from second JS file! -222')

@@ -1,0 +1,27 @@
+{
+  "name": "js_17-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "^0.7.8"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KathrinKozieva/JS_17-18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KathrinKozieva/JS_17-18/issues"
+  },
+  "homepage": "https://github.com/KathrinKozieva/JS_17-18#readme"
+}
